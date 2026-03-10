@@ -193,10 +193,3 @@ All data packets are AES-128 encrypted before transmission between the ESP32 and
 
 ---
 
-## 📚 References
-
-1. M. Usama et al., *Chaos-based secure satellite imagery cryptosystem*, Computers and Mathematics with Applications, 2010.
-2. Q. Zhang, *Study on Image Encryption Algorithm Based on Chaotic Theory*, International Conference on Information Science, 2013.
-3. S. Tanwar et al., *Tactile Internet for Industrial IoT: A Survey on Security and Privacy*, IEEE IoT Journal, 2022.
-4. Espressif, *ESP32 Technical Reference Manual*, 2024.
-5. [Flask-Limiter Documentation](https://flask-limiter.readthedocs.io/)
